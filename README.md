@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vvespertino
 - 👀 I’m interested in crocheting and learning ALL kinds of new things
-- 🌱 I’m currently learning how to code and Data Analytics
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on I'm not quite sure yet
 - 📫 How to reach me through my email address vvespertino1904@gmail.com
 
